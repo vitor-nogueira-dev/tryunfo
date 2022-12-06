@@ -1,9 +1,10 @@
 ## Projeto Tryunfo 🃏
-
+---
 Jogue aqui [Tryunfo](link-deploy) ✅
 
 #### ⏳ Projeto desenvolvido durante o curso de desenvolvimento web Full Stack na [Trybe](https://www.betrybe.com/)
 
+---
 ### 💡 Dicas:
 - Adicione cartas com atributos variados e convide alguém para se divertir com você.
 - O botão (_Jogar_) é ativado quando suas cartas começam a ser adicionadas.
@@ -11,6 +12,7 @@ Jogue aqui [Tryunfo](link-deploy) ✅
 - Você consegue visualizar quantas cartas aindam restam para jogar e quando sua última carta é exibida o botão (_Embaralhar Cartas_) é ativado, permitindo recomeçar o jogo.
 - As cartas são salvas no localStorage, sendo necessário clicar no botão _excluir_ para remover a mesma da memória do seu navegador local.
 - Adicione quantas cartas desejar, e divirta-se ! 
+---
 ### ⚠️ Regras do jogo:
 
 - Primeiramente, cada pessoa deve "pegar" uma carta aleatória do seu baralho.
@@ -19,6 +21,6 @@ Jogue aqui [Tryunfo](link-deploy) ✅
 - Ao término da rodada, cada pessoa deve "pegar" uma nova carta aleatória.
 - A cada rodada é alternada a vez de quem escolhe o atributo para comparação.
 
-
-
-### 🔗 Linkedin [@vitornogueira](https://www.linkedin.com/in/vitor-noqueira-913a9284/) ✅
+---
+#### 🔗 Linkedin [@vitornogueira](https://www.linkedin.com/in/vitor-noqueira-913a9284/) ✅
+---

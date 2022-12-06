@@ -1,0 +1,80 @@
+.container-form {
+  align-items: center;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+  padding: 10px; 
+}
+
+.inputs-form {
+  background-color: #525151d2;
+  border: 8px solid transparent;
+  border-image: linear-gradient(to bottom, black, #87FF65);
+  border-image-slice: 1;
+  border-radius: 5px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  justify-content: center;
+  padding: 10px;
+  text-align: center;
+  width: min-content;
+}
+
+.inputs-form input, .inputs-form select {
+  background-color: rgba(177, 177, 177, 0.366);
+  border: 0.5px solid black;
+  border-radius: 4px;
+  color: white;
+  font-weight: bold;
+  margin-left: 5px;
+}
+
+textarea {
+  background-color: rgba(177, 177, 177, 0.366);
+  border: none;
+  border-radius: 10px;
+  color: white;
+  font-weight: bold;
+  resize: none;
+  text-align: center;
+}
+
+textarea:focus, input:focus, select:focus {
+  border: 2px solid #49f819cd;
+  box-shadow: 0 0 0 0;
+  outline: 0;
+}
+
+input::placeholder, input {
+  color: black;
+  text-align: center;
+}
+
+label, .cardsRest {
+  font-size: 17px;
+}
+
+.btn-success:hover {
+  border: 1.5px solid #2A2B2E;
+  font-weight: bolder;
+  opacity: 1;
+  transition: 0.3s;
+  transform: translateY(-2px);
+}
+
+.preview-card {
+  align-items: center;
+  background-color: #525151d2;
+  border-radius: 5px;
+  box-shadow: 1px 1px 10px white;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 10px;
+  padding: 10px;
+  text-align: center;
+  width: min-content;
+}

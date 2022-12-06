@@ -1,0 +1,23 @@
+.search {
+  align-items: center;
+  background-color: #86ff65d3;
+  border: 2px solid black;
+  color: #2A2B2E;
+  display: flex;
+  flex-flow: row wrap;
+  font-size: 20px;
+  font-weight: bold;
+  justify-content: space-evenly;
+  margin: auto;
+  opacity: 0.9;
+  padding: 10px;
+}
+
+.search input, .search select, .search button {
+  background-color: rgba(177, 177, 177, 0.366);
+  border: 0.5px solid black;
+  border-radius: 4px;
+  color: black;
+  font-weight: bold;
+  margin-left: 5px;
+}

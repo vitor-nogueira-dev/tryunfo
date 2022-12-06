@@ -1,0 +1,27 @@
+body {
+  background-color: #403D39;
+  background-image: url('./imagens//background.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: Nunito , sans-serif;
+  font-size: 16px;
+}
+
+.title {
+  background-color: rgba(177, 177, 177, 0.366);
+  border-radius: 10px;
+  color: #87FF65;
+  font-weight: bolder;
+  margin: auto;
+  padding: 10px;
+  padding-top: 10px;
+  text-align: center;
+  width: 50%;
+}
+
+select {
+  text-align: center;
+}
+
+
+
