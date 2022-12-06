@@ -1,6 +1,6 @@
 ## Projeto Tryunfo 🃏
 ---
-Jogue aqui [Tryunfo](link-deploy) ✅
+Jogue aqui [Tryunfo](https://tryunfo-vn.netlify.app/) ✅
 
 #### ⏳ Projeto desenvolvido durante o curso de desenvolvimento web Full Stack na [Trybe](https://www.betrybe.com/)
 
